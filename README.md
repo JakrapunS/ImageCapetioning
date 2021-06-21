@@ -1,1 +1,1 @@
-# ImageCapetioning
+# ImageCaptioning
